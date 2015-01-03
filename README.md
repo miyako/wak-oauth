@@ -43,8 +43,14 @@ Start the project.
 
 Open index.html. A "sign in with Twitter" button should appear.
 
+![](https://github.com/miyako/wak-oauth/blob/master/images/3.png)
+
 By clicking it, the user will be resirect to Twitter OAuth.
+
+![](https://github.com/miyako/wak-oauth/blob/master/images/4.png)
 
 If the user authorises the application, the browser will redirect to index.html.
 
 Notice that WAK.directory.currentUser() is an object with the user's twitter name.
+
+![](https://github.com/miyako/wak-oauth/blob/master/images/5.png)
