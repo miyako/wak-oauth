@@ -1,4 +1,4 @@
 wak-oauth
 =========
 
-Wakanda example of "Sign in with Twitter" (OAuth 1.0a).
+Wakanda example of [Twitter Sign-in](https://dev.twitter.com/web/sign-in) (OAuth 1.0a).
