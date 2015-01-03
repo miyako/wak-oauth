@@ -3,7 +3,7 @@ wak-oauth
 
 Wakanda example of [Twitter Sign-in](https://dev.twitter.com/web/sign-in) (OAuth 1.0a).
 
-Example
+Install
 -------
 1. Sign up for Twitter.
 2. Register as Twitter Developer.
@@ -37,3 +37,14 @@ Create a JSON file in the following format and store it in Modules/twitter/confi
   "redirectUri":"http://127.0.0.1:8081/twitter/authorize"
 }
 ```
+Example
+-------
+Start the project.
+
+Open index.html. A "sign in with Twitter" button should appear.
+
+By clicking it, the user will be resirect to Twitter OAuth.
+
+If the user authorises the application, the browser will redirect to index.html.
+
+Notice that WAK.directory.currentUser() is an object with the user's twitter name.
