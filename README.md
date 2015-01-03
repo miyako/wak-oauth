@@ -51,6 +51,6 @@ If the user authorises the application, the browser will redirect to index.html.
 
 ![](https://github.com/miyako/wak-oauth/blob/master/images/4.png)
 
-Notice that WAK.directory.currentUser() is an object with the user's twitter name.
+Notice that WAK.directory.currentUser() is an object with the user's Twitter name.
 
 ![](https://github.com/miyako/wak-oauth/blob/master/images/5.png)
