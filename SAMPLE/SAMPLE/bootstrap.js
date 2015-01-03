@@ -1,0 +1,1 @@
+﻿var modulesFolder = FileSystemSync('Modules');//https://apps.twitter.com/app/4777831/settingsaddHttpRequestHandler('^/twitter/authorize$', modulesFolder.path + 'twitter/request-handler.js', 'authorize');
