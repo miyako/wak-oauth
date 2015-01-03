@@ -14,7 +14,7 @@ Example
 
 **Callback URL**: your application URL + '/twitter/authenticate'
 
-The pattern corresponds to the one registered by addRequestHander in bootstrap.js.
+The pattern corresponds to the one registered by addRequestHander in [bootstrap.js](https://github.com/miyako/wak-oauth/blob/master/SAMPLE/SAMPLE/bootstrap.js).
 
 **Website**: Mandatory.
 
