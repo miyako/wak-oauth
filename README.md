@@ -14,9 +14,11 @@ Example
 
 The pattern corresponds to the one registered by addRequestHander in bootstrap.js.
 
+**Website**: Mandatory.
+
 **Application Icon**: optional.
 
-**Allow this application to be used to sign in with Twitter**: Check. 
+**Allow this application to be used to sign in with Twitter**: Enabled. 
 
 Keep note of the cosumer key and secret key.
 
