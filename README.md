@@ -39,17 +39,17 @@ Create a JSON file in the following format and store it in Modules/twitter/confi
 ```
 Example
 -------
-Start the project.
+Start the project. Open index.html. A "sign in with Twitter" button should appear.
 
-Open index.html. A "sign in with Twitter" button should appear.
-
-![](https://github.com/miyako/wak-oauth/blob/master/images/3.png)
+![](https://github.com/miyako/wak-oauth/blob/master/images/6.png)
 
 By clicking it, the user will be resirect to Twitter OAuth.
 
-![](https://github.com/miyako/wak-oauth/blob/master/images/4.png)
+![](https://github.com/miyako/wak-oauth/blob/master/images/3.png)
 
 If the user authorises the application, the browser will redirect to index.html.
+
+![](https://github.com/miyako/wak-oauth/blob/master/images/4.png)
 
 Notice that WAK.directory.currentUser() is an object with the user's twitter name.
 
