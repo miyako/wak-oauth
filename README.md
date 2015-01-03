@@ -14,6 +14,10 @@ Example
 
 The pattern corresponds to the one registered by addRequestHander in bootstrap.js.
 
+**Application Icon**: optional.
+
+**Allow this application to be used to sign in with Twitter**: Check. 
+
 Keep note of the cosumer key and secret key.
 
 Create a JSON file in the following format and store it in Modules/twitter/config.json.
@@ -22,5 +26,6 @@ Create a JSON file in the following format and store it in Modules/twitter/confi
 {
   "consumerKey":"7Mvw************kxpg",
   "consumerSecret":"Gdiu**********************yXZ4",
-    "redirectUri":"http://127.0.0.1:8081/twitter/authorize"}
+  "redirectUri":"http://127.0.0.1:8081/twitter/authorize"
+}
 ```
