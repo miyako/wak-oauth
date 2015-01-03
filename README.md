@@ -10,6 +10,8 @@ Example
 3. Register an application.
 4. Configure the application settings.
 
+![](https://github.com/miyako/wak-oauth/blob/master/images/1.png)
+
 **Callback URL**: your application URL + '/twitter/authenticate'
 
 The pattern corresponds to the one registered by addRequestHander in bootstrap.js.
@@ -20,7 +22,11 @@ The pattern corresponds to the one registered by addRequestHander in bootstrap.j
 
 **Allow this application to be used to sign in with Twitter**: Enabled. 
 
-Keep note of the cosumer key and secret key.
+Swith to the Keys and Access Tokens page.
+
+![](https://github.com/miyako/wak-oauth/blob/master/images/2.png)
+
+Keep note of the **Cosumer Key** and **Cosumer Secret**.
 
 Create a JSON file in the following format and store it in Modules/twitter/config.json.
 
