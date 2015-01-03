@@ -18,3 +18,7 @@ SAMPLE/SAMPLE Solution/Directory.WakTDef
 SAMPLE/SAMPLE Solution/breakpoints.json
 
 SAMPLE/SAMPLE/Modules/twitter/config.json
+
+SAMPLE/SAMPLE/DataFolder/data.waData
+
+SAMPLE/SAMPLE/Logs/HTTPServer.waLog
